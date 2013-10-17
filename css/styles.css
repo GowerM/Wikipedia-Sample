@@ -1,3 +1,41 @@
+/* 
+Color Palette
+1st #C6B997 Tan
+2nd #553621 Dark Brown
+3rd #5E6B26 Creepy neighbor green
+*/
+
+body {
+	font-family : 'Bigelow Rules', cursive;
+	background : url("../img/fresh_snow.png");
+}
+
+h1, h3 {
+ 	color : #C6B997;
+	text-transform : uppercase;
+	border-bottom : 10px solid #553621;	
+}
+
+h3 {
+	padding : 0px 0px 10px 0px;	
+}
+
+img {
+	box-shadow : 0 0 20px #5E6B26; 	
+}
+
+li {
+	font-size : 24px;	
+	text-decoration : none;
+}
+
+.container_12 {
+		background : rgba(255,255,255,.45);	
+}
+
+p {
+	font-size : 18px;	
+}
 
 
 
