@@ -1,9 +1,11 @@
 header {
-	background : Green;	
+	padding : 25px 0px;
+	margin : 0px 0px;	
 }
 
 nav {
-	background : red;
+	padding : 10px 0px 100px;
+	margin : 75px 0px;
 }
 
 
